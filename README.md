@@ -3,6 +3,8 @@
 - LiNGAM (Linear Non-Gaussian Acyclic Model) を用いた因果推論を Streamlit で可視化するアプリケーションです。
 - アップロードしたCSVデータを基に、目的変数に影響を与える因果関係を可視化し、ダウンロードできるようにします。
 
+https://github.com/user-attachments/assets/5175cb8e-faae-4ffb-a217-59a973cc2d3d
+
 ## 🔧環境構築方法
 ### 1. python 仮想環境の構築
 python 3.9 必須（LiNGAM バージョン指定のため）
