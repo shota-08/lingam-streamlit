@@ -1,0 +1,11 @@
+jupyterlab==3.2.3
+numpy==1.21.4
+pandas==1.3.4
+category_encoders==2.3.0
+graphviz==0.18
+lingam==1.5.4
+scikit-learn==1.0.1
+lightgbm==3.3.1
+dtreeviz==2.2.2
+japanize_matplotlib==1.1.3
+streamlit==1.22.0
